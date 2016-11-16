@@ -1,0 +1,23 @@
+#imgDice {
+	background-image:url(dice6.png);
+	width:130px;
+	height:130px;
+	margin: auto;
+}
+#imgDice2 {
+	background-image:url(dice6.png);
+	width:130px;
+	height:130px;
+	margin: auto;
+}
+
+body {
+	font-family: sans-serif;
+	color:blue;
+	font-size: 2em;
+	text-align: center;
+}
+#btnRoll {
+	width:75px;
+
+}
